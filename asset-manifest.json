@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0649005.css",
-    "main.js": "/static/js/main.95b4f3b8.js",
+    "main.css": "/static/css/main.0a5d2eac.css",
+    "main.js": "/static/js/main.8129d301.js",
     "static/media/project-1.jpeg": "/static/media/project-1.e9ce257bb4520f36d4be.jpeg",
     "static/media/home.jpeg": "/static/media/home.cd025790bd4a6c8e161a.jpeg",
+    "static/media/abbosxon-Cv.pdf": "/static/media/abbosxon-Cv.47f9e5875ae4975c2e16.pdf",
     "static/media/project-4.jpeg": "/static/media/project-4.e26d7b6cab8c83730d21.jpeg",
     "static/media/project-2.jpeg": "/static/media/project-2.194e067477f3fa43e26e.jpeg",
     "static/media/project-6.jpg": "/static/media/project-6.f4df07761e8241c83a94.jpg",
     "static/media/project-3.jpeg": "/static/media/project-3.e0ba8d67255b32188df6.jpeg",
     "static/media/project-5.jpeg": "/static/media/project-5.3b9c7f811b1e7b39b510.jpeg",
-    "static/media/steve-Cv.pdf": "/static/media/steve-Cv.e83747cf513e0b21a7f1.pdf",
     "static/media/close.svg": "/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
     "index.html": "/index.html",
-    "main.b0649005.css.map": "/static/css/main.b0649005.css.map",
-    "main.95b4f3b8.js.map": "/static/js/main.95b4f3b8.js.map"
+    "main.0a5d2eac.css.map": "/static/css/main.0a5d2eac.css.map",
+    "main.8129d301.js.map": "/static/js/main.8129d301.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0649005.css",
-    "static/js/main.95b4f3b8.js"
+    "static/css/main.0a5d2eac.css",
+    "static/js/main.8129d301.js"
   ]
 }
